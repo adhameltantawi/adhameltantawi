@@ -40,9 +40,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adhameltantawi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2C9BF7&icon_color=2C9BF7&text_color=ffffff&rank_icon=github" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhameltantawi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2C9BF7&text_color=ffffff&langs_count=6" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adhameltantawi&theme=tokyonight&hide_border=true&background=0d1117&stroke=2C9BF7&ring=2C9BF7&fire=FF6B6B&currStreakLabel=2C9BF7&sideLabels=2C9BF7" width="480"/>
+<img src="https://streak-stats.demolab.com/?user=adhameltantawi&theme=tokyonight&hide_border=true&background=0d1117&stroke=2C9BF7&ring=2C9BF7&fire=FF6B6B&currStreakLabel=2C9BF7&sideLabels=2C9BF7" width="480"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhameltantawi&bg_color=0d1117&color=2C9BF7&line=2C9BF7&point=ffffff&hide_border=true" width="95%"/>
 
