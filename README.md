@@ -1,16 +1,109 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**adhameltantawi/adhameltantawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adham%20Eltantawi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst&descAlignY=58&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C9BF7&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+real+decisions+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;EDA+%7C+Dashboards+%7C+Business+Insights;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### ⬛ Languages & Libraries
+
+<img src="https://skillicons.dev/icons?i=python,cs&theme=dark" height="50"/>
+
+<br/><br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234c72b0.svg?style=flat-square&logo=python&logoColor=white)
+
+
+---
+
+### 🗄️ Databases & SQL
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mssql&theme=dark" height="50"/>
+
+<br/><br/>
+
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![CTEs](https://img.shields.io/badge/CTEs%20%26%20Window%20Functions-%23005C84.svg?style=flat-square&logo=databricks&logoColor=white)
+
+---
+
+### 📊 BI & Visualization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=flat-square&logo=google-sheets&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234c72b0.svg?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### ⚙️ Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="50"/>
+
+<br/><br/>
+
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%236D4C41.svg?style=flat-square&logo=python&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-%230288D1.svg?style=flat-square&logo=apacheairflow&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-%234CAF50.svg?style=flat-square&logo=databricks&logoColor=white)
+![Dashboard Dev](https://img.shields.io/badge/Dashboard%20Development-%23F4511E.svg?style=flat-square&logo=googleanalytics&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adhameltantawi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2C9BF7&icon_color=2C9BF7&text_color=ffffff&rank_icon=github" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhameltantawi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2C9BF7&text_color=ffffff&langs_count=6" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adhameltantawi&theme=tokyonight&hide_border=true&background=0d1117&stroke=2C9BF7&ring=2C9BF7&fire=FF6B6B&currStreakLabel=2C9BF7&sideLabels=2C9BF7" width="500"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adhameltantawi&bg_color=0d1117&color=2C9BF7&line=2C9BF7&point=ffffff&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhameltantawi)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adhameltantawi)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhameltantawi@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=adhameltantawi&color=2C9BF7&style=flat-square&label=Profile+Views)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+</div>
