@@ -40,11 +40,11 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=adhameltantawi&show_icons=true&theme=dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats-taupe-two.vercel.app/api?username=adhameltantawi&show_icons=true&theme=dark&hide_border=true" height="150"/>
 
 <img src="https://streak-stats.demolab.com?user=adhameltantawi&theme=dark&hide_border=true" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhameltantawi&layout=compact&theme=dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats-taupe-two.vercel.app/api/top-langs/?username=adhameltantawi&layout=compact&theme=dark&hide_border=true" height="150"/>
 
 </div>
  
