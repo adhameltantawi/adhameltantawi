@@ -40,11 +40,7 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adhameltantawi&show_icons=true&theme=dark&hide_border=true" height="150"/>
-
-<img src="https://streak-stats.demolab.com?user=adhameltantawi&theme=dark&hide_border=true" height="150"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adhameltantawi&layout=compact&theme=dark&hide_border=true" height="150"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adhameltantawi&theme=react-dark&bg_color=1F222E&color=2C9BF7&line=2C9BF7&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
  
