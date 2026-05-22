@@ -39,12 +39,16 @@
 ## 📈 GitHub Stats
 
 <div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=adhameltantawi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
 
-<img src="https://streak-stats.demolab.com/?user=adhameltantawi&theme=tokyonight&hide_border=true&background=0d1117&stroke=2C9BF7&ring=2C9BF7&fire=FF6B6B&currStreakLabel=2C9BF7&sideLabels=2C9BF7" width="480"/>
+<img src="https://streak-stats.demolab.com?user=adhameltantawi&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adhameltantawi&bg_color=0d1117&color=2C9BF7&line=2C9BF7&point=ffffff&hide_border=true" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhameltantawi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
 </div>
+
+![Snake Animation](https://github.com/adhameltantawi/adhameltantawi/blob/output/snake-dark.svg)
 
 ---
 
