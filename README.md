@@ -48,7 +48,7 @@
 
 </div>
  
-![Snake Animation](https://github.com/adhameltantawi/adhameltantawi/blob/output/snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/adhameltantawi/adhameltantawi/output/snake-dark.svg)
 
 ---
 
