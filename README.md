@@ -47,7 +47,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhameltantawi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
 </div>
-
+ 
 ![Snake Animation](https://github.com/adhameltantawi/adhameltantawi/blob/output/snake-dark.svg)
 
 ---
